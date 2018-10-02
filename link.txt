@@ -1,0 +1,5 @@
+# link download iso centos 7 ARM
+http://mirror.centos.org/altarch/7/isos/armhfp/CentOS-Userland-7-armv7hl-generic-Minimal-1804-sda.raw.xz
+
+# link download etcher.io
+https://etcher.io/
